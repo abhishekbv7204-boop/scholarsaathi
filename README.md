@@ -11,7 +11,7 @@
 
 ## 🔗 Live Application & Demo Links
 
-- **Live Application URL**: https://main.dXXXXXXXXX.amplifyapp.com
+- **Live Application URL**: https://scholarsaathi-avlg.onrender.com
 - 
 
 ---
