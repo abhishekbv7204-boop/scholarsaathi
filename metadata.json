@@ -1,0 +1,7 @@
+{
+  "name": "ScholarSaathi",
+  "description": "Deterministic scholarship eligibility matching and rule-by-rule explanation platform for Indian students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
