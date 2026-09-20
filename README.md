@@ -11,8 +11,8 @@
 
 ## 🔗 Live Application & Demo Links
 
-- **Live Application URL**: `[Insert Production Live URL Here]` *(e.g., https://main.dXXXXXXXXX.amplifyapp.com)*
-- **3-Minute Pitch & Demo Video**: `[Insert YouTube / Loom Video Link Here]`
+- **Live Application URL**: https://main.dXXXXXXXXX.amplifyapp.com
+- 
 
 ---
 
