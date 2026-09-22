@@ -84,7 +84,7 @@ export async function handler(event: LambdaProxyEvent): Promise<LambdaProxyResul
   }
 
   try {
-    // 1. Health Check
+  
     if (pathname === '/api/health' || pathname === '/health') {
       return {
         statusCode: 200,
